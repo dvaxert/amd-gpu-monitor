@@ -1,0 +1,21 @@
+{
+  "deviceIndex": 0,
+  "compactMode": true,
+  "iconColor": "primary",
+  "textColor": "onSurface",
+  "useMonospaceFont": true,
+  "usePadding": false,
+  "showTempEdge": false,
+  "showTempJunction": true,
+  "showTempMemory": true,
+  "showGpuUse": true,
+  "showVram": true,
+  "showVramActivity": false,
+  "showFanSpeed": false,
+  "showPower": true,
+  "showSclk": false,
+  "showMclk": false,
+  "showFclk": false,
+  "showSocclk": false,
+  "showDcefclk": false
+}
