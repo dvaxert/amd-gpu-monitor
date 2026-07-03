@@ -3,7 +3,7 @@
   "name": "AMD GPU Monitor",
   "version": "1.0.0",
   "minNoctaliaVersion": "4.0.0",
-  "author": "ex",
+  "author": "Dvaxert",
   "license": "MIT",
   "description": "AMD discrete GPU monitoring via rocm-smi with graphs and configurable metrics.",
   "tags": ["Bar", "Panel", "System", "Amd", "GPU", "Monitoring", "Graph", "Video"],
